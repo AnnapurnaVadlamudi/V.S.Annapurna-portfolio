@@ -16,5 +16,8 @@
 
 ![Java](https://github.com/AnnapurnaVadlamudi/V.S.Annapurna-portfolio/assets/110333988/e1b6f748-27ea-4685-8fe8-b52803effd17)
 
+![javascript](https://github.com/AnnapurnaVadlamudi/V.S.Annapurna-portfolio/assets/110333988/b74378e0-a91c-4276-bd30-5cf27562006d)
+
+
 
 
